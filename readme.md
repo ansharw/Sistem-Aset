@@ -1,0 +1,1 @@
+https://codersfolder.com/2018/02/stock-management-system-v2-codeigniter/
