@@ -1,1 +1,2 @@
-https://codersfolder.com/2018/02/stock-management-system-v2-codeigniter/
+username : admin@admin.com
+password : password
